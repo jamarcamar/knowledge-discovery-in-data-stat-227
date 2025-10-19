@@ -247,3 +247,16 @@ This dataset is perfect for:
 4. **Share your findings** and contribute back to the community!
 
 Happy analyzing! 🚀
+
+## Project structure
+
+Organized directories:
+
+- data/: CSV datasets.
+- notebooks/: Jupyter notebooks.
+- figures/: PNGs and plots.
+- outputs/: generated outputs, intermediate files.
+- scripts/: utility scripts.
+- archives/: archived/raw extras.
+
+Move files into these folders to keep the repo tidy.
